@@ -1,5 +1,5 @@
 /*
-Java Program to check if String is empty or not
+Java Program to check if String is empty or null
 */
 
 
@@ -13,7 +13,6 @@ public class StringNotEmpty {
             return true;
             else
                 return false;
-
     }
 
     @Test
@@ -22,6 +21,5 @@ public class StringNotEmpty {
         System.out.println(stringNotEmpty(null));
         System.out.println(stringNotEmpty(" "));
         System.out.println(stringNotEmpty("parth"));
-
     }
 }

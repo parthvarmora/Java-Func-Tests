@@ -51,7 +51,7 @@ public class FindLargestAndSmallestElement {
             }
 
             @Test
-            //testing for a null array
+            //testing for Empty array
              public void verifyEmptyArray () {
                     int[] arr = { };
                     int[] largestSmallestNumbers = findLargestAndSmallestElement(arr);

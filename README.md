@@ -5,4 +5,6 @@ instead of the number and for the multiples of '5' print "Buzz"
 
 2.Java program to check if a string is empty or null
 
+3.Java program to find the smallest and largest number in the array 
+
 
